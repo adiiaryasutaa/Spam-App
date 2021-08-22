@@ -1,0 +1,14 @@
+{
+	"editor.fontSize": 14,
+	"editor.fontFamily": "Source code pro",
+	"editor.lineHeight": 23,
+	"editor.tabSize": 2,
+	"window.zoomLevel": 0,
+	"workbench.colorTheme": "Noctis Minimus",
+	"workbench.iconTheme": "vscode-icons",
+	"editor.minimap.enabled": false,
+	"python.defaultInterpreterPath": "./venv/Scripts/python.exe",
+	"python.analysis.extraPaths": [
+		"./src/util"
+	]
+}
